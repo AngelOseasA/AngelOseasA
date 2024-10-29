@@ -1,5 +1,8 @@
 ## Hi there 👋
 I’m Ángel, deeply passionate about learning and applying advanced algorithm optimization, machine learning techniques, and AI-based product development. My experience spans managing platforms like Microsoft Fabric, including its diverse data engineering and data science modules. I’m captivated by Big Data processing techniques and have developed projects in Databricks using Spark with Python and SQL. Skilled in visual analytics, I specialize in creating insightful visualizations with Power BI. On the statistical side, I enjoy teaching experimental design for marketing, leveraging Monte Carlo simulations for forecasting with time series, and am continuously advancing my knowledge in large language models (LLMs) and visualization frameworks.
+
+Currently, I'm developing a blog where I share interesting insights: [https://medium.com/@angelAjcabul](https://medium.com/@angelAjcabul)
+
 <!--
 
 **AngelOseasA/AngelOseasA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
